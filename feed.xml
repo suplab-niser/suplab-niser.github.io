@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Superconductivity Lab</title>
+    <link href="https://suplab-niser.github.io/feed.xml" rel="self" />
+    <link href="https://suplab-niser.github.io" />
+    <updated>2022-03-07T23:22:50+05:30</updated>
+    <author>
+        <name>suplab-niser</name>
+    </author>
+    <id>https://suplab-niser.github.io</id>
+
+    <entry>
+        <title>Facilities &amp; Equipment</title>
+        <author>
+            <name>suplab-niser</name>
+        </author>
+        <link href="https://suplab-niser.github.io/facilities-and-equipment/"/>
+        <id>https://suplab-niser.github.io/facilities-and-equipment/</id>
+
+        <updated>2022-03-07T23:19:47+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Instruments within the lab: Cryogenic PPMS ColdEdge Cryostat Liquid Helium Dewar DC Magnetron Sputtering (UHV) Argon Ion Miller RF Sputtering&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><strong>Instruments within the lab</strong><span style="font-weight: 400;">:</span></h2>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/6/gallery/PPMS.jpg" data-size="3456x4608"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/6/gallery/PPMS-thumbnail.jpg" alt="Cryogenic PPMS" width="720" height="960"></a>
+<figcaption>Cryogenic PPMS</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/6/gallery/Cryostat.jpg" data-size="4608x3456"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/6/gallery/Cryostat-thumbnail.jpg" alt="ColdEdge Cryostat" width="720" height="540"></a>
+<figcaption>ColdEdge Cryostat</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/6/gallery/HeDiwar.jpg" data-size="3456x4608"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/6/gallery/HeDiwar-thumbnail.jpg" alt="Liquid Helium Dewar" width="720" height="960"></a>
+<figcaption>Liquid Helium Dewar</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/6/gallery/DCSputtering.jpg" data-size="4608x3456"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/6/gallery/DCSputtering-thumbnail.jpg" alt="DC Magnetron Sputtering (UHV)" width="720" height="540"></a>
+<figcaption>DC Magnetron Sputtering (UHV)</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/6/gallery/AIM.jpg" data-size="4608x3456"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/6/gallery/AIM-thumbnail.jpg" alt="Argon Ion Miller" width="720" height="540"></a>
+<figcaption>Argon Ion Miller</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/6/gallery/RFSputtering.jpg" data-size="4608x3456"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/6/gallery/RFSputtering-thumbnail.jpg" alt="RF Sputtering" width="720" height="540"></a>
+<figcaption>RF Sputtering</figcaption>
+</figure>
+</div></div>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Physical Property Measurement System (PPMS):</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Measurement system to study Magnetic and Electrical transport properties with benefits of:</span></p>
+<ul style="list-style-type: circle;">
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Closed cycle cooling system.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Minimum lowest temperature of 1.8K.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Maximum highest magnetic field up to 9T.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A good temperature stability.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Coldedge (4K) Cryostat</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Helium Dewar</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">DC Magnetron Sputtering</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">A standard magnetron sputtering system with benefits of:</span></p>
+<ul style="list-style-type: circle;">
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A UHV compatible chamber of base pressure 3E-8mbar </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Connected with Residual Gas analyser </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Flanges with multi sputtering target connected maximum up to 4 no.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Dedicated UHV setup for metal thin film deposition </span><span style="font-weight: 400;">only.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">RF Sputtering</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">A small RF sputtering system with base vacuum 2E-6mbar dedicated for thin film deposition of oxide, non-metallic, insulator materials. </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Argon Ion Milling</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">A small AIM system with benefits of desired thin film milling of any materials.</span></p>
+<p><br><br></p>
+<h2><strong>Instruments placed at common facilities of SPS, NISER:</strong></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Focused Ion Beam</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Crossbeam 340 system with multiple benefits of FIB, GIS, EBL and FESEM.  </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Wire Bonding</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">A small wire bonding system dedicated for making electrical connections to thin film only.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Reactive Ion Etching</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">FESEM with CL and EDAX</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Spin Coater</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Photolithography</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">XRD</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">CVD</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">MOKE</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">TEM and LRTEM</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">CRYOSEM</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">Microscopes with different resolution and working distance</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<h3><span style="font-weight: 400;">RAMAN and Photo Luminoscence</span></h3>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>People</title>
+        <author>
+            <name>suplab-niser</name>
+        </author>
+        <link href="https://suplab-niser.github.io/people/"/>
+        <id>https://suplab-niser.github.io/people/</id>
+
+        <updated>2022-03-07T23:22:50+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Ph.D. Scholars Laxmipriya Nanda working on Superconductor-ferromagnet nanoscale structures. Tapas Ranjan Senapati Debashree Nayak Masters’ project students Ashwin Kumar K&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><span style="font-weight: 400;">Ph.D. Scholars</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><strong>Laxmipriya Nanda </strong>working on Superconductor-ferromagnet nanoscale structures.</li>
+<li style="font-weight: 400;" aria-level="1"><strong>Tapas Ranjan Senapati</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Debashree Nayak</strong></li>
+</ol>
+<h2><span style="font-weight: 400;">Masters’ project students</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><strong>Ashwin Kumar K</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Nitesh Kumar Patel</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Anshuman Padhi</strong></li>
+</ol>
+<p> </p>
+<h2><span style="font-weight: 400;">Alumni</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><strong>Ekta Bhatia (PhD from 2014-2019)</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Abhinav Kumar</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>K Shubham Senapati</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Pankaj Kumar</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>EA Sreeram</strong></li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Priciple Investigator</title>
+        <author>
+            <name>suplab-niser</name>
+        </author>
+        <link href="https://suplab-niser.github.io/dr-kartik-senapati/"/>
+        <id>https://suplab-niser.github.io/dr-kartik-senapati/</id>
+
+        <updated>2022-03-07T21:45:47+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Dr. Kartik Senapati Qualification: Ph.D from IIT Kanpur, Post-Doc from University of Cambridge Expertise: Josephson Junction, Spintronics Follow the link&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Dr. Kartik Senapati</h2>
+<p><span style="font-weight: 400;">Qualification</span><span style="font-weight: 400;">: Ph.D from IIT Kanpur, Post-Doc from University of Cambridge</span></p>
+<p><span style="font-weight: 400;">Expertise</span><span style="font-weight: 400;">: Josephson Junction, Spintronics</span></p>
+<p><span style="font-weight: 400;">Follow the link to ORCID id</span><span style="font-weight: 400;">: </span><a href="https://orcid.org/0000-0003-1422-3195"><span style="font-weight: 400;">https://orcid.org/</span><strong>0000-0003-1422-3195</strong></a></p>
+<p> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reader-F</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">PGCS-convenor SPS</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Associate Dean</span></li>
+</ul>
+<p><span style="font-weight: 400;">(A description on Sir, his expertise and his research interests)</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">(Sir’s degree’s)</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">(Sir’s Research Highlights, like big publications)</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">(Sir being editor, reviewer at several journals)</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">(Other responsibilities, like Associate Dean, PGCS etc)</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">(conferences organised)</span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Research</title>
+        <author>
+            <name>suplab-niser</name>
+        </author>
+        <link href="https://suplab-niser.github.io/research/"/>
+        <id>https://suplab-niser.github.io/research/</id>
+
+        <updated>2022-03-07T23:06:26+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Most prefered material for spin current generation from spin imbalance in the band structure can be in a spin&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<ul style="font-size: 18.4px;">
+<li>
+<h3>Spin-triplet Correlations of cooper pairs in superconducting Devices</h3>
+</li>
+</ul>
+<ul>
+<li>
+<h3>Spin-filter Josephson Junction</h3>
+</li>
+</ul>
+<p><br><span style="color: #000000;">Most prefered material for spin current generation from spin imbalance in the band structure can be in a spin filter with a high spin filter efficiency. Spin filters in a josephson junction can reveal the feature of getting triplet or as an insulating ferromagnetic barrier for studying higher order harmonics also. Keeping all aspects open about it, modification or in combination with other materials, we can study the more reliable part of superconducting spintronics by combining ferromagnetism, spin orbit interaction and superconducting physics.</span></p>
+<ul>
+<li>
+<h3>Proximity effect in superconductor-Ferromagnet nanoscale structures</h3>
+</li>
+</ul>
+<p><br> <span style="color: #000000;">Proximity effect in S-F is very interesting </span></p>
+<ul>
+<li>
+<h3>Spin-glass Josephson Junction</h3>
+</li>
+</ul>
+<p><span style="color: #000000;">The non equilibrium physics of a spin glass can not be fully understood until getting an idea about its energy state or any configurational state. Its randomness and frustration of spins make it more interesting. Since josephson junction is a very phase sensitive tool, one can put non equilibrium systems as a barrier inside it. The results from those devices will be rich and unputdownable in terms of superconductivity and spin glass physics.</span></p>
+<ul>
+<li>
+<h3>Spin-orbit coupling induced effects in Josephson Junctions</h3>
+</li>
+</ul>
+<p><br><span style="color: #000000;">The ferromagnetic material in a barrier while studying with singlet josephson junction becomes restricted as a function of its proximatisation length scale and its magnetisation increases complexity in making squid devices from it.  The righteous choice in a josephson junction is spin orbit interaction  by which we can generate, manipulate and control the spin near a junction area without having any remnants.</span></p>
+<ul>
+<li>
+<h3>Proximity effect in Superconductor-Antiferromagnet interfaces</h3>
+</li>
+<li>
+<h3>Single Molecular Magnet based detectors</h3>
+</li>
+</ul>
+<p><span style="color: #000000;">SMM is famous for its quick magnetization switch caused by an avalanche in a correlated configuration state. Keeping this fact in mind we planned to fabricate some SQUID device to detect this flux change inside the loop.</span><br><br><br><br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Superconductivity Lab</title>
+        <author>
+            <name>suplab-niser</name>
+        </author>
+        <link href="https://suplab-niser.github.io/home/"/>
+        <id>https://suplab-niser.github.io/home/</id>
+
+        <updated>2022-03-07T22:36:28+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Superconductivity Lab was established at School of Physical Sciences, National Institute of Science Education and Research (NISER) Bhubaneswar. Superconductivity&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/2/gallery/JJ.jpg" data-size="709x452"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/2/gallery/JJ-thumbnail.jpg" alt="Colourised SEM image of Josephson Junction" width="709" height="452"></a></figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/2/gallery/SQUID.jpg" data-size="1024x768"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/2/gallery/SQUID-thumbnail.jpg" alt="Colourised SEM image of SQUID" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://suplab-niser.github.io/media/posts/2/gallery/JJ-planar.png" data-size="680x945"><img loading="lazy" src="https://suplab-niser.github.io/media/posts/2/gallery/JJ-planar-thumbnail.png" alt="" width="680" height="945"></a></figure>
+</div></div>
+<p><span style="font-weight: 400;">Superconductivity Lab was established  at School of Physical Sciences, National Institute of Science Education and Research (NISER) Bhubaneswar. Superconductivity has been an exotic property of materials due to their unique charge and magnetic transport properties. Thus, they offer a great potential for applications in quantum computation, detectors, spintronic devices, levitated transport etc.  Here, we intend to study the physics of various superconducting/superconducting hybrid interfaces, nanostructures and devices.   </span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

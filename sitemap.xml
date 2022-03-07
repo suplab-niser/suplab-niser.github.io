@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://suplab-niser.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://suplab-niser.github.io/</loc>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/dr-kartik-senapati/</loc>
+<lastmod>2022-03-07T21:45:47+05:30</lastmod>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/facilities-and-equipment/</loc>
+<lastmod>2022-03-07T23:19:47+05:30</lastmod>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/6/gallery/PPMS-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Cryogenic PPMS]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/6/gallery/Cryostat-thumbnail.jpg</image:loc>
+<image:title><![CDATA[ColdEdge Cryostat]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/6/gallery/HeDiwar-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Liquid Helium Dewar]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/6/gallery/DCSputtering-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DC Magnetron Sputtering (UHV)]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/6/gallery/AIM-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Argon Ion Miller]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/6/gallery/RFSputtering-thumbnail.jpg</image:loc>
+<image:title><![CDATA[RF Sputtering]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/home/</loc>
+<lastmod>2022-03-07T22:36:28+05:30</lastmod>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/2/gallery/JJ-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Colourised SEM image of Josephson Junction]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/2/gallery/SQUID-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Colourised SEM image of SQUID]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://suplab-niser.github.io/media/posts/2/gallery/JJ-planar-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/page/2/</loc>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/page/3/</loc>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/page/4/</loc>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/people/</loc>
+<lastmod>2022-03-07T23:22:50+05:30</lastmod>
+</url>
+<url>
+<loc>https://suplab-niser.github.io/research/</loc>
+<lastmod>2022-03-07T23:06:26+05:30</lastmod>
+</url>
+</urlset>

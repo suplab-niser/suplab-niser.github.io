@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://suplab-niser.github.io/sitemap.xml
